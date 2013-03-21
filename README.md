@@ -1,9 +1,13 @@
-## Interview Challenge 1
-You have 24 hours from the receipt of this document to write the code to
-complete the challenge, push it up to a repository in [GitHub][5] or
-[BitBucket][6] and send us the url to the repository.  We expect to clone the
-repository and examine your working code.
+# Interview Challenge 1
+You have 24 hours from the receipt of this document to:
+- Write the code to complete the challenge
+- Push it up to a repository in [GitHub][5] or [BitBucket][6]
+- Send us the url to the repository.
 
+We expect to clone the repository, examine, and run your working code.
+
+
+## The Challenge
 Create a [NodeJS][0] based [ExpressJS][1] server that responds to the following
 request with a responsive page.
 
@@ -25,7 +29,7 @@ should list all ten tweets divided into two columns.
     +----------+
 
 
-### Assumptions
+## Assumptions
 - [NodeJS][0] and npm are setup and running on the localhost.  Your code does
   not need to account for installing NodeJS on systems that do not have it.
   You however, will need to install it to develop this.
@@ -33,13 +37,13 @@ should list all ten tweets divided into two columns.
 - [NodeJS][0] is at least version 0.8.18 or higher.
 
 
-### Tips
+## Tips
 - Do your best to impress us, your code passing [jslint][3] may help.
 
 - Attention to detail is important.
 
 
-### Extra Credit
+## Extra Credit
 - Make the tweets from twitter that have links in them be clickable on your
   page.
 
