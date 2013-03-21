@@ -1,5 +1,6 @@
 # Interview Challenge 1
 You have 24 hours from the receipt of this document to:
+
 - Write the code to complete the challenge
 - Push it up to a repository in [GitHub][5] or [BitBucket][6]
 - Send us the url to the repository.
