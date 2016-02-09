@@ -54,6 +54,18 @@ should list all ten tweets divided into two columns.
 - [Client side templates][4] are cool.
 
 
+## Commands
+- First of all get all packages:
+`$ npm install`
+
+- To watch while you are developing  (the compiled code goes to the `.tmp` directory):
+`$ grunt watch`
+
+- To run all tests:
+`$ grunt test`
+
+- To build the project (the result goes to the `dist` directory):
+`$ grunt build`
 
 
 [0]: http://nodejs.org
