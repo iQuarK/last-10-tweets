@@ -1,0 +1,15 @@
+html
+  head
+    title= "List of tweets of "+username
+    link(href='/css/styles.css', rel="stylesheet", type="text/css" )
+  body
+    if tweets && tweets.length > 0
+      ul.tweets
+        each tweet in tweets
+          li!= tweet
+    else
+      p.error= title
+      if errors
+        p= errors
+      else
+        p= "No tweets this time baby."
